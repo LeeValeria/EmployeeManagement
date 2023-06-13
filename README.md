@@ -17,7 +17,7 @@
 
 ## Platform
 
-Frontend = React JS
+Frontend = React JS <br />
 Backend = Node JS
 
 ## Develop by
